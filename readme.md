@@ -2,12 +2,12 @@
 
 Proyecto de integracion con varias librerias para el framework codeigniter.
 
-  - [HMVC Modular](#CI_HMVC_Modular_extension_13)
-  - [Easy Schema database in YAML](#Schema_migration_22)
-  - [Easy Model access](#Model_Access_53)
-  - [User and Role manager](#User_and_role_manager_98)
-  - [Bootstrap 4 and Font Awesome](#anchor_bootstrap)
-  - [VUEjs](#anchor_vuejs) 
+  - [HMVC Modular](#user-content-ci-hmvc-modular-extension)
+  - [Easy Schema database in YAML](#user-content-schema-migration)
+  - [Easy Model access](#user-content-model-access)
+  - [User and Role manager](#user-content-user-and-role-manager-modules)
+  - [Bootstrap 4 and Font Awesome](#user-content-libs-assets--bootstrap-4--fontawesome)
+  - [VUEjs](#user-content-vuejs) 
 
 ### CI HMVC Modular extension
 Se utiliza esta libreria para facilitar el desarrollo, en ella ya se encuentran los modulos basicos que son:
